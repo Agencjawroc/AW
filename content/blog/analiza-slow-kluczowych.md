@@ -7,7 +7,7 @@ ikona_artykulu = "/uploads/7_obszar-roboczy-1.png"
 keywords = "słowa kluczowe, analiza słów kluczowych"
 lista_o_czym_przeczytasz_group = []
 obrazek = ""
-og_image = "/uploads/7_obszar-roboczy-1.png"
+og_image = ""
 robots = "index, follow"
 slug = "analiza-slow-kluczowych"
 summary = "Pytanie, które zapewne pojawia się na początku analizy, to kto jest realnym konkurentem, a także, na jakie frazy jest widoczny? Często partnerzy, z którymi pracuję, mają świadomość rynku i bardzo precyzyjnie są w stanie wskazać firmy, z którymi chcą konkurować. Zdarza się jednak, że otwierając nowy biznes lub wchodząc w nowy rynek, nie mamy jeszcze w jego obszarze wiedzy eksperckiej i niezbędna jest więc analityka."
@@ -42,7 +42,7 @@ Na tym etapie powinieneś także odwiedzić witryny konkurencyjne i sprawdzić j
 
 Możesz też zweryfikować słowa kluczowe, które są najistotniejsze dla Twojego konkurenta. Aby to wykonać, kliknij na witrynie prawy przycisk myszy i skorzystaj z opcji „zbadaj”. W pierwszym kontakcie ściana kodu może wyglądać przytłaczająco, natomiast posiadając wiedzę na temat tego, jak się w tym zasobie poruszać, możesz uzyskać ciekawe informacje.
 
-![Przykład tytułu](/uploads/obraz1.png)  
+![](/uploads/obraz1.png)  
 Słowa kluczowe są umieszczane także w headerach, czyli nagłówkach tytułowych. Ich rola to porządkowanie treści i wskazywanie botom Google istotnych informacji. Są one ułożone wg hierarchii od H1 do H6. W kontekście pozycjonowania szczególnie istotne są nagłówki H1 oraz H2. Aby je zweryfikować, ponownie zbadaj witrynę, użyj skrótu CTRL + F, a następie wyszukaj <h1> lub <h2>. Jeśli domena posiada właściwą architekturę treści, wynikiem Twojego wyszukania będą kolejne słowa kluczowe, które są ważne dla tej witryny.
 
 ![Przykład nagłówka h1](/uploads/obraz2.png)
