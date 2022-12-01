@@ -28,6 +28,7 @@ fields:
     required: false
   label: Krótki opis w pływającym boxie
 pages:
+- data/authors/Karol.yml
 - data/authors/agata.yml
 - data/authors/bartek.yml
 - data/authors/jakub.yml
