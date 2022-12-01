@@ -42,7 +42,7 @@ Na tym etapie powinieneś także odwiedzić witryny konkurencyjne i sprawdzić j
 
 Możesz też zweryfikować słowa kluczowe, które są najistotniejsze dla Twojego konkurenta. Aby to wykonać, kliknij na witrynie prawy przycisk myszy i skorzystaj z opcji „zbadaj”. W pierwszym kontakcie ściana kodu może wyglądać przytłaczająco, natomiast posiadając wiedzę na temat tego, jak się w tym zasobie poruszać, możesz uzyskać ciekawe informacje.
 
-![](/uploads/obraz1.png)  
+![](/uploads/screenshot_1.png)  
 Słowa kluczowe są umieszczane także w headerach, czyli nagłówkach tytułowych. Ich rola to porządkowanie treści i wskazywanie botom Google istotnych informacji. Są one ułożone wg hierarchii od H1 do H6. W kontekście pozycjonowania szczególnie istotne są nagłówki H1 oraz H2. Aby je zweryfikować, ponownie zbadaj witrynę, użyj skrótu CTRL + F, a następie wyszukaj <h1> lub <h2>. Jeśli domena posiada właściwą architekturę treści, wynikiem Twojego wyszukania będą kolejne słowa kluczowe, które są ważne dla tej witryny.
 
 ![Przykład nagłówka h1](/uploads/obraz2.png)
