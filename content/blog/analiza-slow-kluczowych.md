@@ -1,7 +1,7 @@
 +++
 author = "data/authors/Karol.yml"
 categories = []
-date = 2022-12-01T23:00:00Z
+date = 2022-11-30T23:00:00Z
 description = "Analiza słów kluczowych jest jednym z kluczowych elementów w skutecznym pozycjonowaniu strony"
 ikona_artykulu = "/uploads/7_obszar-roboczy-1.png"
 keywords = "słowa kluczowe, analiza słów kluczowych"
