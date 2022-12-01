@@ -1,5 +1,5 @@
 +++
-author = "data/authors/bartek.yml"
+author = "data/authors/Karol.yml"
 categories = []
 date = 2022-11-30T23:00:00Z
 description = "Analiza słów kluczowych jest jednym z kluczowych elementów w skutecznym pozycjonowaniu strony"
