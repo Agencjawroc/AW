@@ -203,15 +203,9 @@ sections:
   - obrazek: "/uploads/ola-side.webp"
     my_name: Ola
     stanowisko: Key Account Manager
-  - obrazek: "/uploads/adrian-side.webp"
-    my_name: Adrian
-    stanowisko: Junior SEO Specialist
   - my_name: Wiktoria
     stanowisko: Junior SEO Specialist
     obrazek: "/uploads/wiktoria-side.webp"
-  - obrazek: "/uploads/ania-side.webp"
-    my_name: Ania
-    stanowisko: Junior SEO Specialist
   - obrazek: "/uploads/wiktoria.jpg"
     my_name: Wiktoria
     stanowisko: Graphic Designer
