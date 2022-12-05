@@ -57,9 +57,7 @@ Kolejnym tropem mogą być zasoby graficzne. Je również weryfikuje Google, a m
 
 Powyższe rozwiązanie wymaga pewnej wprawy, ale po jej uzyskaniu daje możliwość uzyskania wielu istotnych informacji. Istnieją również narzędzia, które mogą część tej pracy wykonać za Ciebie. Aby ułatwić nawigację po informacjach, możesz użyć wtyczek dedykowanych przeglądarce internetowej, które także selekcjonują powyższe dane. Narzędzi jest wiele, a jednym z nich może być SEO META in 1 CLICK. Pobierz rozszerzenie, a następnie użyj go na interesującej Cię stronie. Dodatkowo uzyskasz dzięki niej takie informacje, jak chociażby meta description czy page title. Jeśli chciałbyś poznać inne, bardzo pomocne rozszerzenia, zachęcam do przeczytania wpisu Władka, naszego SEO Managera – 5 darmowych narzędzi, które pomogą Ci ogarnąć SEO.
 
-![](/uploads/wtyczka-seo.png)
-
-![](/uploads/struktura-strony.png)
+![](/uploads/wtyczka-seo-do-chrome.jpg)
 
 Drugim, łatwiejszym, ale płatnym sposobem jest skorzystanie narzędzi dedykowanych pracy SEO, jak np. Ahrefs, Senuto czy Semrush. Każde z nich pozwala na bardzo dokładną i przekrojową analizę. Przy ich użyciu uzyskasz o wiele łatwiejszą nawigację po informacjach, a także w przystępny sposób wykonasz research konkurentów, porównasz słowa kluczowe, a także prześledzisz historię wzrostów/spadków w wynikach wyszukiwania. Dodatkową zaletą płatnych narzędzi jest informacja o trudności danego słowa kluczowego (KD), a także wolumenu wyszukań. Te dane pozwolą określić Ci wstępny nakład pracy oraz potencjalny ruch, jaki może wygenerować konkretne słowo kluczowe.
 
