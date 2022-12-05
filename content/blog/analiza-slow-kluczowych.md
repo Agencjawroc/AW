@@ -12,7 +12,7 @@ robots = "index, follow"
 slug = "analiza-slow-kluczowych"
 summary = "Pytanie, które zapewne pojawia się na początku analizy, to kto jest realnym konkurentem, a także, na jakie frazy jest widoczny? Często partnerzy, z którymi pracuję, mają świadomość rynku i bardzo precyzyjnie są w stanie wskazać firmy, z którymi chcą konkurować. Zdarza się jednak, że otwierając nowy biznes lub wchodząc w nowy rynek, nie mamy jeszcze w jego obszarze wiedzy eksperckiej i niezbędna jest więc analityka."
 tags = []
-title = "Analiza słów kluczowych"
+title = "Analiza słów kluczowych - Agencja Wrocławska"
 tytul_do_listowania = "Analiza słów kluczowych"
 tytul_o_czym_przeczytasz = "O czym przeczytasz w artykule?"
 video = false
@@ -39,6 +39,8 @@ Pierwsza (darmowa) to użycie wyszukiwarki Google i wpisanie interesujących nas
 Widząc firmy, które pojawią się w wynikach wyszukiwania, powinniśmy ocenić ich siłę oraz wielkość. W przypadku, w którym załóżmy, prowadzisz młody sklep internetowy, a po wpisaniu interesującej Cię frazy, całość pierwszej strony Google jest zagospodarowana przez takie brandy jak allegro, olx, zalando itp., możesz mieć niemal pewność, że przebicie się w ich grono będzie często kosztowało sporo czasu i środków. W takiej sytuacji rozsądne jest poszukanie np. fraz z dłuższym ogonem (long tail).
 
 Na tym etapie powinieneś także odwiedzić witryny konkurencyjne i sprawdzić jak wyglądają bezpośrednie miejsca, do których prowadzą słowa kluczowe. Zwróć szczególną uwagę na wielkość portfolio produktowego, ilość treści, a także, jeśli masz możliwość - ilość i jakość linków odsyłających.
+
+## Analiza słów kluczowych
 
 Możesz też zweryfikować słowa kluczowe, które są najistotniejsze dla Twojego konkurenta. Aby to wykonać, kliknij na witrynie prawy przycisk myszy i skorzystaj z opcji „zbadaj”. W pierwszym kontakcie ściana kodu może wyglądać przytłaczająco, natomiast posiadając wiedzę na temat tego, jak się w tym zasobie poruszać, możesz uzyskać ciekawe informacje.
 
