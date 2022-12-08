@@ -420,4 +420,5 @@ title = "Wzrost ruchu organicznego na stronie (5301 -> 56043)  "
 [[sections.kolumny_3_bg]]
 opis = "369%"
 title = "Wzrost ogólnej liczby fraz kluczowych powiązanych ze stroną TOP 100 (4615 -> 17050) "
+
 +++

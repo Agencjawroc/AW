@@ -8,13 +8,13 @@ portraitPhotoWidths = [1500, 1000, 750]
 theme = "sc_aw"
 title = "Agencja Wrocławska"
 [[menu.main]]
-name = "O nas"
-url = "#"
-weight = 4
-[[menu.main]]
 name = "Pozycjonowanie"
 url = "#"
 weight = 1
+[[menu.main]]
+name = "O nas"
+url = "#"
+weight = 4
 [outputFormats.JSON]
 BaseName = "index"
 IsHTML = false

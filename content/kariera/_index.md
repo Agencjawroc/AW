@@ -9,6 +9,9 @@ robots = "index, follow"
 slug = "/kariera"
 title = "Kariera | Agencja Wrocławska"
 tytul_do_listowania = "Kariera"
+[menu.main]
+name = "Kariera "
+weight = 6
 [[bloki_pod_ofertami]]
 header_repeater = []
 opis = ""

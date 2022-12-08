@@ -8,7 +8,7 @@ slug = "kontakt"
 title = "Kontakt | Agencja Wrocławska"
 [menu.main]
 name = "Kontakt"
-weight = 6
+weight = 7
 [[sections]]
 banner_bg_for_center = ""
 banner_bg_for_center_left = ""
