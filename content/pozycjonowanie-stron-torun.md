@@ -1,10 +1,9 @@
 +++
 body_class = "pozycjonowanie-stron-miasta pozycjonowanie-stron-torun"
 description = "Pozycjonowanie stron Toruń"
-draft = false
 keywords = ""
 og_image = ""
-robots = "noindex, nofollow"
+robots = "index, follow"
 slug = "pozycjonowanie-stron-torun"
 title = "Pozycjonowanie stron Toruń | Agencja Wrocławska"
 tytul_do_listowania = "Pozycjonowanie stron Toruń"

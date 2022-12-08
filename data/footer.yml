@@ -4,6 +4,8 @@ pierwsza_kolumna:
   opis: "<p>Agencja Wrocławska Sp. z o.o. <br>ul. Dmowskiego 17<br>50-203 Wrocław</p><p>kontakt@agencjawroclawska.pl</p>"
   logo_dark: "/uploads/logo-aw-white.svg"
 druga_kolumna:
+- wybierz_odnosniki: pozycjonowanie-stron-torun.md
+  tytul_odnosnika: ''
 - wybierz_odnosniki: google-adwords.md
   tytul_odnosnika: Google Adwords
 - wybierz_odnosniki: social-media.md
