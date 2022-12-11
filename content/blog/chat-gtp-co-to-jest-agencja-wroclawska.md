@@ -81,7 +81,7 @@ Model językowy, który jest wykorzystywany w chat.openai.com, to duży system s
 
 Aby skorzystać z chat.openai.com, wystarczy wejść na stronę, założyć konto i napisać pytanie w polu tekstowym. Model językowy odpowie na pytanie w ciągu kilku sekund. Użytkownicy mogą również zadać pytania głosowo, naciskając przycisk "mikrofon" i mówiąc do mikrofonu swojego urządzenia.
 
-![chat gpt poradnik](https://lh4.googleusercontent.com/Dmgeo9q63CNb70rrKisq8p-g-UVYC0UyCDiwEcHlgsVV4fEAsRj5e53XBlGQlYcO4X8VFbd_TXKlqFOUW7lHF0o0KJpDU3q4QfOWDd7Lq69KSIstRfkAAxwArORPp1Zxp5LvtNAN3toUl8CvQSRzxPU3s4-Z6xuM0mnOI7Nob6-wnrliYfd8OFcuklBl2A =602x291)
+![ChatGPT - główny panel](/uploads/chatgpt-glowny-panel.png)
 
 Chat.openai.com jest przydatnym narzędziem dla osób poszukujących szybkich i dokładnych odpowiedzi na różne pytania. Może być również wykorzystywany jako narzędzie edukacyjne, pomagając użytkownikom lepiej zrozumieć działanie sztucznej inteligencji i modeli językowych.
 
@@ -89,7 +89,7 @@ Chat.openai.com jest przydatnym narzędziem dla osób poszukujących szybkich i 
 
 System Chat gpt jest jednym z najnowszych rozwiązań w dziedzinie komunikacji online. Jest to innowacyjny sposób na prowadzenie rozmów tekstowych z wykorzystaniem sztucznej inteligencji. System Chat gpt posiada wiele zalet, które sprawiają, że jest on coraz bardziej popularny wśród użytkowników internetu.
 
-![chat gpt google trends](https://lh6.googleusercontent.com/2zbo2JghywdW_ZCkOVnKcCP50-eHS_GXWEVrR1vEwsb_5TbVbk6v1tZX8Ub-iRRTK6rhJA5NPYtNtArzCjibsbjfvyYvCI5QXtxWhpUDRdW1VdJEmiojwvqbF7gP5tSj7avvFwq5DBmXsPsOOkcQAGrZ2HINpGIWKK9ke3a0wQWhAnYRhlreTzfoCsAZaw =602x320)
+![Wzrost wyszykiwań frazy ChatGPT w Google Trends](/uploads/google-trends-wynik-wyszukiwan-chatgpt.png)
 
 Wzrost wyszukiwań frazy chat gpt w Polsce wg Google Trends.
 
@@ -140,5 +140,7 @@ Wpływ chat GPT na branżę copywritingu może być pozytywny lub negatywny, w z
 ## Czy ChatGPT konkuruje z Google? {#chat-gpt-a-google}
 
 Na pierwszy rzut oka nie, ponieważ chatGPT jest modelem językowym, a Google to wyszukiwarka internetowa. ChatGPT jest jednym z wielu modeli językowych stworzonych przez OpenAI i jest on przeznaczony do generowania tekstu na podstawie dostarczonego mu kontekstu. Natomiast Google to wyszukiwarka, która umożliwia użytkownikom wyszukiwanie informacji w Internecie. Są to dwa różne narzędzia o różnych zastosowaniach.
+
+![Odpowiedź bota chatGPT narzędziach do wyszukiwania słów kluczowych pytanie o najlepszych na](/uploads/chatgpt-przyklad-uzycia.png)
 
 Z drugiej jednak strony zadaniem jest odpowiedzieć jak najbardziej precyzyjnie na zapytania użytkownika, a tu konkurencyjność już się zaczyna.
