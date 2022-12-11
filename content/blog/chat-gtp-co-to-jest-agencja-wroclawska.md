@@ -1,5 +1,5 @@
 +++
-author = "data/authors/bartek.yml"
+author = "data/authors/wladek.yml"
 categories = []
 date = 2022-12-11T13:14:00Z
 description = "Czym jest chat GTP? Czy to kolejny krok w stronę automatyzacji i rozwoju sztucznej inteligencji? Wejdź i sprawdź!"
