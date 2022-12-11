@@ -146,5 +146,3 @@ Z drugiej jednak strony zadaniem jest odpowiedzieć jak najbardziej precyzyjnie 
 [https://www.youtube.com/watch?v=6NMXANNjkzI&list=WL&index=79&ab_channel=GotchSEO](https://www.youtube.com/watch?v=6NMXANNjkzI&list=WL&index=79&ab_channel=GotchSEO "https://www.youtube.com/watch?v=6NMXANNjkzI&list=WL&index=79&ab_channel=GotchSEO")
 
 **![chat gpt zapytania](https://lh5.googleusercontent.com/AJzRYLUPo8WKgRXcQOVjnx6NukZr2PvaR8vp-tFFwh9nLbFO4qVAb5uCAV_lZXwY4viXveYiU7FYlr42ts7QLr3RS9aM1WLUfFsorI7o676EvZbFwH-HSR4sHvXeH7Nvax3U9FVfdqkSWmBc-3bkLse2djntvXdB81HNx7pjTD-Yar9Z8b7IMVjrQ5gLOQ =602x476)**
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6NMXANNjkzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
