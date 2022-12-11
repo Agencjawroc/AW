@@ -142,7 +142,3 @@ Wpływ chat GPT na branżę copywritingu może być pozytywny lub negatywny, w z
 Na pierwszy rzut oka nie, ponieważ chatGPT jest modelem językowym, a Google to wyszukiwarka internetowa. ChatGPT jest jednym z wielu modeli językowych stworzonych przez OpenAI i jest on przeznaczony do generowania tekstu na podstawie dostarczonego mu kontekstu. Natomiast Google to wyszukiwarka, która umożliwia użytkownikom wyszukiwanie informacji w Internecie. Są to dwa różne narzędzia o różnych zastosowaniach.
 
 Z drugiej jednak strony zadaniem jest odpowiedzieć jak najbardziej precyzyjnie na zapytania użytkownika, a tu konkurencyjność już się zaczyna.
-
-[https://www.youtube.com/watch?v=6NMXANNjkzI&list=WL&index=79&ab_channel=GotchSEO](https://www.youtube.com/watch?v=6NMXANNjkzI&list=WL&index=79&ab_channel=GotchSEO "https://www.youtube.com/watch?v=6NMXANNjkzI&list=WL&index=79&ab_channel=GotchSEO")
-
-**![chat gpt zapytania](https://lh5.googleusercontent.com/AJzRYLUPo8WKgRXcQOVjnx6NukZr2PvaR8vp-tFFwh9nLbFO4qVAb5uCAV_lZXwY4viXveYiU7FYlr42ts7QLr3RS9aM1WLUfFsorI7o676EvZbFwH-HSR4sHvXeH7Nvax3U9FVfdqkSWmBc-3bkLse2djntvXdB81HNx7pjTD-Yar9Z8b7IMVjrQ5gLOQ =602x476)**
