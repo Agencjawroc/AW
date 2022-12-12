@@ -61,7 +61,7 @@ Chat GPT jest często wykorzystywany w różnych aplikacjach do automatyzacji ob
 
 Podsumowując, **chat GPT to rodzaj sztucznej inteligencji**, która pozwala na generowanie tekstu na podstawie dużych zbiorów danych tekstowych i udzielanie odpowiedzi na pytania w sposób bardziej naturalny niż inne modele. Jest często wykorzystywana w różnych aplikacjach do automatyzacji obsługi klienta i jest cenne narzędzie dla firm, które chcą zwiększyć efektywność swojej obsługi.
 
-## Historia chat GPT {#historia-chat-gpt)
+## Historia chat GPT {#historia-chat-gpt}
 
 Twórcami chat GPT są pracownicy firmy OpenAI, międzynarodowej organizacji zajmującej się badaniami w dziedzinie sztucznej inteligencji. OpenAI została założona w 2015 roku przez weterana branży technologicznej, Elona Muska, oraz kilku innych wybitnych postaci ze świata technologii, takich jak Sam Altman czy Greg Brockman.
 
