@@ -2,17 +2,17 @@
 author = "data/authors/agata.yml"
 categories = []
 date = 2022-12-11T13:14:00Z
-description = "Czym jest chat GTP? Czy to kolejny krok w stronę automatyzacji i rozwoju sztucznej inteligencji? Wejdź i sprawdź!"
+description = "Czym jest chat GPT? Czy to kolejny krok w stronę automatyzacji i rozwoju sztucznej inteligencji? Wejdź i sprawdź!"
 ikona_artykulu = "/uploads/art-placeholder.svg"
 keywords = ""
 obrazek = ""
 og_image = ""
 robots = "index, follow"
-slug = "chat-gtp-co-to-jest"
+slug = "chat-gpt-co-to-jest"
 summary = "Chat GPT to rodzaj sztucznej inteligencji, która pozwala na generowanie tekstu na podstawie dużych zbiorów danych tekstowych i udzielanie odpowiedzi na pytania w sposób bardziej naturalny niż inne modele. Jest często wykorzystywana w różnych aplikacjach do automatyzacji obsługi klienta i jest cenne narzędzie dla firm, które chcą zwiększyć efektywność swojej obsługi."
 tags = []
-title = "Chat GTP - co to jest? | Agencja Wrocławska"
-tytul_do_listowania = "Chat GTP - co to jest?"
+title = "Chat GPT - co to jest? | Agencja Wrocławska"
+tytul_do_listowania = "Chat GPT - co to jest?"
 tytul_o_czym_przeczytasz = "Chat GPT - spis treści artykułu:"
 video = true
 video_kod_embed = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6NMXANNjkzI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
