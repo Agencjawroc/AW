@@ -185,7 +185,7 @@ sections:
   - obrazek: "/uploads/zofia-side.webp"
     my_name: Zosia
     stanowisko: Junior SEO Expert
-  - obrazek: "/uploads/maciej-side.webp"
+  - obrazek: "/uploads/maciej-dopierala.webp"
     my_name: Maciek
     stanowisko: Junior SEO Expert
   - obrazek: "/uploads/julll.png"
