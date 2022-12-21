@@ -155,6 +155,9 @@ sections:
       txt_block_size: XL
 - template: sekcja-o-nas-druzyna-pierscienia
   section_team_group:
+  - obrazek: ''
+    my_name: ''
+    stanowisko: ''
   - obrazek: "/uploads/bartek-1-side.webp"
     my_name: Bartek
     stanowisko: Head of Marketing
@@ -176,7 +179,7 @@ sections:
   - obrazek: "/uploads/damian-side.webp"
     my_name: Damian
     stanowisko: Project Manager
-  - obrazek: "/uploads/bartlomiej-jankowski.webp"
+  - obrazek: "/uploads/bartlomiej-jankowski-1.webp"
     my_name: Bartłomiej
     stanowisko: SEO Expert
   - obrazek: "/uploads/sylwiaaw3.jpg"
