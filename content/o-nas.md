@@ -170,9 +170,9 @@ sections:
   - obrazek: "/uploads/wladek-side.webp"
     my_name: Władek
     stanowisko: SEO Manager
-  - obrazek: "/uploads/aleksandra-front.jpg"
-    my_name: Aleksandra
-    stanowisko: Project Manager
+  - obrazek: "/uploads/ola-side.webp"
+    my_name: Ola
+    stanowisko: Key Account Manager
   - obrazek: "/uploads/damian-side.webp"
     my_name: Damian
     stanowisko: Project Manager
@@ -200,9 +200,9 @@ sections:
   - obrazek: "/uploads/maria-side.webp"
     my_name: Maria
     stanowisko: Head of Administration
-  - obrazek: "/uploads/ola-side.webp"
-    my_name: Ola
-    stanowisko: Key Account Manager
+  - obrazek: "/uploads/aleksandra-front.jpg"
+    my_name: Aleksandra
+    stanowisko: Project Manager
   - my_name: Wiktoria
     stanowisko: Junior SEO Specialist
     obrazek: "/uploads/wiktoria-side.webp"
