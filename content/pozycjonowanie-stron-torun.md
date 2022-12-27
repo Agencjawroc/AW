@@ -68,12 +68,12 @@ akapit = "<p><strong>Pozycjonowanie to nie tylko SEO, czyli walka o jak najwyżs
 czy_naglowek_w_spis_tresci = true
 zdjecie = ""
 [[sections.bloki.header_repeater]]
-block_tag_type = "h2"
+block_tag_type = "h3"
 bold_txt = "gruby"
 break_line = false
 color_txt = "czarny"
 ornament = "brak"
-txt_block = "SEO a pozycjonowanie stron"
+txt_block = "SEO a pozycjonowanie stron "
 txt_block_size = "L"
 underline = false
 [[sections.bloki]]
