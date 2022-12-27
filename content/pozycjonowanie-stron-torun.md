@@ -21,7 +21,7 @@ bold_txt = "gruby"
 break_line = false
 color_txt = "czarny"
 ornament = "brak"
-txt_block = "Pozycjonowanie stron w Toruniu – czym dokładnie się zajmujemy?"
+txt_block = "Pozycjonowanie stron Toruń"
 txt_block_size = "XL"
 underline = false
 [[sections.bloki]]
