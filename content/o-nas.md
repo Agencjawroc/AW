@@ -176,7 +176,7 @@ sections:
   - obrazek: "/uploads/damian-side.webp"
     my_name: Damian
     stanowisko: Project Manager
-  - obrazek: "/uploads/bartlomiej-jankowski.jpg"
+  - obrazek: "/uploads/bartlomiej-jankowski-1.webp"
     my_name: Bartłomiej
     stanowisko: SEO Expert
   - obrazek: "/uploads/sylwiaaw3.jpg"
