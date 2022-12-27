@@ -155,12 +155,6 @@ sections:
       txt_block_size: XL
 - template: sekcja-o-nas-druzyna-pierscienia
   section_team_group:
-  - obrazek: "/uploads/malgorzata-olszanowska.webp"
-    my_name: Małgorzata Olszanowska
-    stanowisko: Junior SEO Expert
-  - obrazek: "/uploads/kamil-wilk.webp"
-    my_name: Konrad Wilk
-    stanowisko: Junior SEO Specialist
   - obrazek: "/uploads/bartek-1-side.webp"
     my_name: Bartek
     stanowisko: Head of Marketing
@@ -190,6 +184,12 @@ sections:
     stanowisko: SEO Expert
   - obrazek: "/uploads/maciej-dopierala.webp"
     my_name: Maciek
+    stanowisko: Junior SEO Expert
+  - obrazek: "/uploads/kamil-wilk.webp"
+    my_name: Konrad Wilk
+    stanowisko: Junior SEO Specialist
+  - obrazek: "/uploads/malgorzata-olszanowska.webp"
+    my_name: Małgorzata Olszanowska
     stanowisko: Junior SEO Expert
   - obrazek: "/uploads/julll.png"
     my_name: Julia
