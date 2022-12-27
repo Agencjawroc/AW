@@ -85,7 +85,7 @@ bold_txt = "gruby"
 break_line = false
 color_txt = "czarny"
 ornament = "brak"
-txt_block = "Pozycjonowanie lokalne – co to takiego?"
+txt_block = "Pozycjonowanie lokalne w Toruniu – co to takiego?"
 txt_block_size = "L"
 underline = false
 [[sections.bloki]]
