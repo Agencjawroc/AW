@@ -25,9 +25,17 @@ txt_block = "Pozycjonowanie stron w Toruniu – czym dokładnie się zajmujemy?"
 txt_block_size = "XL"
 underline = false
 [[sections.bloki]]
-akapit = "<p><img src=\"/uploads/torun.jpeg\" alt=\"Pozycjonowanie Toruń\"></p>"
+akapit = "<p><img src=\"/uploads/pozycjonowanie-torun.png\" alt=\"Pozycjonowanie Toruń\"></p>"
 czy_naglowek_w_spis_tresci = false
-header_repeater = []
+[[sections.bloki.header_repeater]]
+block_tag_type = "h3"
+bold_txt = "gruby"
+break_line = false
+color_txt = "czarny"
+ornament = "brak"
+txt_block = "Pozycjonowanie z Agencją Wrocławską!"
+txt_block_size = ""
+underline = false
 [[sections.bloki]]
 akapit = "<p>Pozycjonowanie stron internetowych (ang. Search Engine Optimization – SEO, Web Positioning) to strategia marketingowa, której celem jest zwiększenie widoczności w sieci. Użytkownicy po wpisaniu frazy kluczowej w wyszukiwarkę Google, znajdują konkretne strony internetowe i generują na nich ruch. To często przekłada się na realne zyski, na przykład sklepu internetowego.</p><p><strong>Algorytmy Google działają w taki sposób, aby pokazywać użytkownikom tylko te strony, na których znajdują się wartościowe, merytoryczne informacje.</strong> Kiedyś tworzenie treści na strony internetowe było o wiele prostsze, bo Google nie zwracało tak bardzo uwagi, ani na poziom artykułów, ani na duplikację. Dzisiaj wszelkie teksty, które są po prostu słabej jakości znajdują się na dalszych stronach. Dlatego tak ważne jest nie tylko samo pozycjonowanie stron, ale również wysokiej jakości treści, które dają użytkownikom konkretną wartość.</p><p>Wracając jednak do samego pozycjonowania stron w Toruniu, to Google bierze pod uwagę jeszcze inne czynniki. Możemy wśród nich wymienić na przykład:</p><ul><li><strong>bezpieczeństwo;</strong></li><li><strong>odpowiednia szybkość ładowania;</strong></li><li><strong>użyteczność.</strong></li></ul><p>Na pierwszych miejscach w wyszukiwarce Google znajdują się te strony, które zostały pod tym kątem pozytywnie zweryfikowane przez roboty indeksujące. W pozycjonowaniu stron internetowych niezwykle ważne są dwie kwestie. Pierwsza to, czy dana witryna jest zoptymalizowana pod roboty indeksujące Google. Natomiast druga to dopasowanie do oczekiwań użytkowników.</p>"
 czy_naglowek_w_spis_tresci = true
