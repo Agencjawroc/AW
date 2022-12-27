@@ -182,7 +182,7 @@ sections:
   - obrazek: "/uploads/sylwiaaw3.jpg"
     my_name: Sylwia
     stanowisko: SEO Expert
-  - obrazek: "/uploads/maciej-dopierala.webp"
+  - obrazek: "/uploads/maciej-dopierala-1.jpg"
     my_name: Maciek
     stanowisko: Junior SEO Expert
   - obrazek: "/uploads/kamil-wilk.webp"
