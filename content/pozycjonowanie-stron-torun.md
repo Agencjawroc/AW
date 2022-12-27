@@ -55,12 +55,12 @@ akapit = "<p>Wiesz już, czym jest pozycjonowanie stron internetowych i co może
 czy_naglowek_w_spis_tresci = true
 zdjecie = ""
 [[sections.bloki.header_repeater]]
-block_tag_type = "h2"
+block_tag_type = "h3"
 bold_txt = "gruby"
 break_line = false
 color_txt = "czarny"
 ornament = "brak"
-txt_block = "Co to są słowa/ frazy kluczowe?"
+txt_block = "Co to są słowa/frazy kluczowe?"
 txt_block_size = "L"
 underline = false
 [[sections.bloki]]
