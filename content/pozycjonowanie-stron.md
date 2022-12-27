@@ -324,8 +324,9 @@ tytul_odnosnika = "Zamów bezpłatną wycenę"
 [[sections]]
 template = "sekcja-przemienne-kolumny-txt-img"
 [[sections.wiersz_dwie_kolumny]]
+tytul_wiersza = "Inne usługi:"
 [sections.wiersz_dwie_kolumny.kolumna_druga]
-film_obrazek = []
+film_obrazek = ""
 [sections.wiersz_dwie_kolumny.kolumna_pierwsza]
 adres_odnosnika = "pozycjonowanie-stron-torun.md"
 modal_linku = "wewnętrzny"
