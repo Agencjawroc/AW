@@ -64,7 +64,7 @@ txt_block = "Co to są słowa/frazy kluczowe?"
 txt_block_size = "L"
 underline = false
 [[sections.bloki]]
-akapit = "<p><strong>Pozycjonowanie to nie tylko SEO, czyli walka o jak najwyższe miejsce w wyszukiwarce Google. To również analiza danej strony internetowej z uwzględnieniem wielu aspektów</strong>. Nikt, kto obiecuje Ci, że Twoja witryna znajdzie się na 1 miejscu w ciągu kilku dni, nie jest wiarygodny. Pozycjonowanie stron internetowych to długi i pracochłonny proces. Warto za niego zapłacić i to czasami całkiem sporo. Co prawda, są sposoby na szybkie podbicie strony w wyszukiwarce Google. Jednak zazwyczaj tak szybko, jak się ona znajdzie na szczycie, tak błyskawicznie z niego spadnie. Przy pozycjonowaniu liczy się cierpliwość i wytrwałość. Tylko wtedy uda Ci się na długo utrzymać wysoką pozycję i jednocześnie zaufanie klientów.</p>"
+akapit = "<p><strong>Pozycjonowanie to nie tylko SEO, czyli walka o jak najwyższe miejsce w wyszukiwarce Google. To również analiza danej strony internetowej z uwzględnieniem wielu aspektów</strong>. Nikt, kto obiecuje Ci, że Twoja witryna znajdzie się na 1 miejscu w ciągu kilku dni, nie jest wiarygodny. Pozycjonowanie stron internetowych to długi i pracochłonny proces. Warto za niego zapłacić i to czasami całkiem sporo. Co prawda, są sposoby na szybkie podbicie strony w wyszukiwarce Google. Jednak zazwyczaj tak szybko, jak się ona znajdzie na szczycie, tak błyskawicznie z niego spadnie. Przy pozycjonowaniu liczy się cierpliwość i wytrwałość. Tylko wtedy uda Ci się na długo utrzymać wysoką pozycję i jednocześnie zaufanie klientów w Toruniu i okolicach.</p>"
 czy_naglowek_w_spis_tresci = true
 zdjecie = ""
 [[sections.bloki.header_repeater]]
