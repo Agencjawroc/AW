@@ -321,5 +321,16 @@ title = "Efektywne pozycjonowanie strony to szansa"
 [[sections]]
 template = "sekcja-cta-zamow-wycene"
 tytul_odnosnika = "Zamów bezpłatną wycenę"
+[[sections]]
+template = "sekcja-przemienne-kolumny-txt-img"
+[[sections.wiersz_dwie_kolumny]]
+[sections.wiersz_dwie_kolumny.kolumna_druga]
+film_obrazek = []
+[sections.wiersz_dwie_kolumny.kolumna_pierwsza]
+adres_odnosnika = "pozycjonowanie-stron-torun.md"
+modal_linku = "wewnętrzny"
+opis = "Inne usługi:"
+relacja_linku = "follow"
+tytul_odnosnika = "Pozycjonowanie Toruń"
 
 +++
