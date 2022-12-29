@@ -155,15 +155,9 @@ sections:
       txt_block_size: XL
 - template: sekcja-o-nas-druzyna-pierscienia
   section_team_group:
-  - obrazek: "/uploads/dsc02326-edit-1.webp"
-    my_name: Jagoda
-    stanowisko: " Back Office Administrator"
-  - obrazek: "/uploads/ola.webp"
-    my_name: Ola
-    stanowisko: Junior SEO Specialist
-  - obrazek: "/uploads/dominika.webp"
-    my_name: Dominika
-    stanowisko: Junior SEO Specialist
+  - obrazek: "/uploads/adrian.webp"
+    my_name: Adrian
+    stanowisko: Google ADS Specialist
   - obrazek: "/uploads/bartek-1-side.webp"
     my_name: Bartek
     stanowisko: Head of Marketing
@@ -176,6 +170,9 @@ sections:
   - obrazek: "/uploads/robert-side.webp"
     my_name: Robert
     stanowisko: Google Ads Manager
+  - obrazek: "/uploads/ola.webp"
+    my_name: Ola
+    stanowisko: Junior SEO Specialist
   - obrazek: "/uploads/wladek-side.webp"
     my_name: Władek
     stanowisko: SEO Manager
@@ -185,6 +182,12 @@ sections:
   - obrazek: "/uploads/damian-side.webp"
     my_name: Damian
     stanowisko: Project Manager
+  - obrazek: "/uploads/dsc02326-edit-1.webp"
+    my_name: Jagoda
+    stanowisko: " Back Office Administrator"
+  - obrazek: "/uploads/dominika.webp"
+    my_name: Dominika
+    stanowisko: Junior SEO Specialist
   - obrazek: "/uploads/bartlomiej-jankowski-1.webp"
     my_name: Bartłomiej
     stanowisko: SEO Expert
