@@ -215,12 +215,12 @@ sections:
   - obrazek: "/uploads/maria-side.webp"
     my_name: Maria
     stanowisko: Head of Administration
-  - obrazek: "/uploads/aleksandra-front.jpg"
-    my_name: Aleksandra
-    stanowisko: Project Manager
   - my_name: Wiktoria
     stanowisko: Junior SEO Specialist
     obrazek: "/uploads/wiktoria-side.webp"
+  - obrazek: "/uploads/aleksandra-front.jpg"
+    my_name: Aleksandra
+    stanowisko: Project Manager
   - obrazek: "/uploads/wiktoria.jpg"
     my_name: Wiktoria
     stanowisko: Graphic Designer
