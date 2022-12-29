@@ -186,10 +186,10 @@ sections:
     my_name: Maciek
     stanowisko: Junior SEO Expert
   - obrazek: "/uploads/kamil-wilk.webp"
-    my_name: Konrad Wilk
+    my_name: 'Konrad '
     stanowisko: Junior SEO Specialist
   - obrazek: "/uploads/malgorzata-olszanowska.webp"
-    my_name: Małgorzata Olszanowska
+    my_name: Małgorzata
     stanowisko: Junior SEO Expert
   - obrazek: "/uploads/julll.png"
     my_name: Julia
