@@ -155,6 +155,9 @@ sections:
       txt_block_size: XL
 - template: sekcja-o-nas-druzyna-pierscienia
   section_team_group:
+  - obrazek: "/uploads/dominika.webp"
+    my_name: Dominika
+    stanowisko: Junior SEO Specialist
   - obrazek: "/uploads/bartek-1-side.webp"
     my_name: Bartek
     stanowisko: Head of Marketing
@@ -252,6 +255,7 @@ menu:
     name: O agencji
     weight: 1
     parent: O nas
+draft: true
 
 ---
 +++
