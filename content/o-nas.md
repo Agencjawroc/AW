@@ -155,6 +155,9 @@ sections:
       txt_block_size: XL
 - template: sekcja-o-nas-druzyna-pierscienia
   section_team_group:
+  - obrazek: "/uploads/dsc02326-edit-1.webp"
+    my_name: Jagoda
+    stanowisko: " Back Office Administrator"
   - obrazek: "/uploads/ola.webp"
     my_name: Ola
     stanowisko: Junior SEO Specialist
